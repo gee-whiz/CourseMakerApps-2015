@@ -1,0 +1,1 @@
+include ':CMLibrary', ':CMAdmin', ':CMAuthor', ':CMInstructor', ':CMServerProbe', ':CMTrainee'
